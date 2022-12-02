@@ -1,3 +1,5 @@
+
+
 Hola! 👋
 
 
@@ -8,6 +10,7 @@ Soy músico formado en y a través de las nuevas tecnologías.
 Estoy finalizando la Licenciatura en Música y Tecnología otorgada por la Universidad Nacional de Quilmes. Solo resta la tesis, la cual está en curso y en esta plataforma encontraran expuesto sus avances! A través de esta licenciatura alcancé la certificación de Técnico en Música y Tecnología. Desde hace tiempo estoy vinculado a distintos tipos de desarollo de software. Poseo un solido conocimiento en Python. Mediante este lenguaje estoy realizando parte de mi proyecto de tesis en Django , Kivy, Pygame, Socket, entre otros frameworks y librerias. Tambien he desarollado proyectos en HTML, php, Java, MongoDB, Arduino. Asi como otros lenguajes entorno al arte como Pure Data y Processing. Además poseo conocimientos en investigación, creación y producción en áreas específicas de computación aplicada tanto a la música como al arte sonoro, acústica, historia del arte, teatro, formatos de comunicación, análisis y producción musical. Me gustaria continuar desarrollando mi experiencia profesional en este medio colaborando en proyectos que expandan nuestras capacidades a través del trabajo en equipo en las áreas mencionadas. Me considero una persona creativa, proactiva y resolutiva.
 
 Gracias por tomarte el tiempo de leer!
+
 
 
 
@@ -30,5 +33,7 @@ Thanks for taking your time to read!
                                                                                                                                               
                                                                                                                                               
                                                                                                                                               Ale Ramone
+                                                                                                                                              
+                                                                                                                                                                       
 
 
